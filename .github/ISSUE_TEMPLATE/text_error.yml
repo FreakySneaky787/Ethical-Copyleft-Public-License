@@ -1,0 +1,21 @@
+name: Mistake in the license text
+description: A typo, unclear wording or a contradiction in the ECPL or the README
+labels: ["text"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where?
+      description: Section number or quote, e.g. "Section 5, second paragraph"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested wording (optional)

@@ -38,11 +38,11 @@ Adopting the ECPL for your software repository takes less than two minutes:
 
 ### Step 1: Add the License File
 
-Copy the contents of `LICENSE.txt` into a file named `LICENSE` or `LICENSE.txt` at the root of your project repository.
+Copy the contents of [`LICENSE`](LICENSE) into a file named `LICENSE` or `LICENSE.txt` at the root of your project repository.
 
 ### Step 2: Fill Out Your Details
 
-Edit the placeholders at the top and bottom of your `LICENSE.txt` file:
+Edit the placeholders at the top and bottom of your license file:
 
 - Replace `[Year]` with the current year.
 - Replace `[Your Name or Organization]` with your copyright name.
@@ -70,3 +70,20 @@ See the [LICENSE](LICENSE) file for complete terms and restrictions.
 ### What happens if a company violates the license?
 
 Under **Section 6 (Automatic Termination)**, any unauthorized usage or failure to comply immediately voids the license ipso facto. The offending entity loses all legal rights to use, host, or execute the software and becomes liable for copyright infringement.
+
+### Can I copy or change the license text itself?
+
+Everyone may copy and distribute verbatim copies of the ECPL text to license their own projects.
+If you change the terms, please give your version a different name, so nobody confuses it with the ECPL.
+
+## Versions
+
+The current version is **ECPL v1.2**. Each version is published as a [release](../../releases), so you can always
+link to the exact text you use.
+
+## Questions and feedback
+
+- Questions about the license, ideas and general discussion: [Discussions](../../discussions)
+- Mistakes in the text or concrete suggestions for the next version: [Issues](../../issues/new/choose)
+
+The ECPL is not legal advice. If you rely on it for important work, have it reviewed by a lawyer in your jurisdiction.
