@@ -81,6 +81,12 @@ If you change the terms, please give your version a different name, so nobody co
 The current version is **ECPL v1.2**. Each version is published as a [release](../../releases), so you can always
 link to the exact text you use. What changed between versions is in the [CHANGELOG](CHANGELOG.md).
 
+## Credits
+
+Sections 2 (Eligible Users) and 3 (Restricted Users & Uses) are adapted from the
+[Anti-Capitalist Software License](https://anticapitalist.software/) (v1.4). The ECPL builds on its idea of who may use
+the software and adds copyleft, network copyleft, patent protection, anti-tivoization and the other sections.
+
 ## Questions and feedback
 
 - Questions about the license, ideas and general discussion: [Discussions](../../discussions)

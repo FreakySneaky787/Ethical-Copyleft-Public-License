@@ -44,7 +44,8 @@ The text of this version was not preserved. Its changes are part of the list und
 
 ## v1.0
 
-First version, published as the "Anti-Capitalist Software License with Copyleft & Protections (v1.0)": attribution,
+First version, published as the "Anti-Capitalist Software License with Copyleft & Protections (v1.0)", based on the
+[Anti-Capitalist Software License](https://anticapitalist.software/) v1.4: attribution,
 eligible users (individuals, non-profits, educational institutions, worker-owned organisations), a ban on law
 enforcement, military and intelligence agencies, copyleft, a patent licence with termination, anti-tivoization and a
 disclaimer of warranty.
