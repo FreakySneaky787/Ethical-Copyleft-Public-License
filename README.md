@@ -79,7 +79,7 @@ If you change the terms, please give your version a different name, so nobody co
 ## Versions
 
 The current version is **ECPL v1.2**. Each version is published as a [release](../../releases), so you can always
-link to the exact text you use.
+link to the exact text you use. What changed between versions is in the [CHANGELOG](CHANGELOG.md).
 
 ## Questions and feedback
 
