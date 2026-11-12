@@ -1,4 +1,4 @@
-# Ethical Copyleft Public License (ECPL v1.2)
+# Ethical Copyleft Public License (ECPL v1.3)
 
 The **Ethical Copyleft Public License (ECPL)** is a source-available, strong-copyleft license designed for independent developers, non-profit organizations, educational institutions, worker cooperatives, and small teams.
 
@@ -10,7 +10,7 @@ The ECPL is designed for creators who want to share their source code openly wit
 
 ### Who is allowed to use ECPL software?
 
-- **Individual creators** working for themselves.
+- **Individual creators** working for themselves (not for, on behalf of or at the direction of others).
 - **Non-profit organizations & educational institutions**.
 - **Worker cooperatives** (where all workers are owners with equal equity and voting power).
 - **Small enterprises** with fewer than 5 workers and under $100,000 USD cumulative annual group revenue.
@@ -19,14 +19,14 @@ The ECPL is designed for creators who want to share their source code openly wit
 
 - **Large corporations & enterprise groups** (exceeding the 5 worker or $100,000 USD thresholds).
 - **Military, intelligence agencies, police force, and private security contractors**.
-- **Entities engaging in human rights violations**, forced labor, or severe environmental destruction.
+- **Entities found by a listed institution** (see [REFERENCE-LIST.md](REFERENCE-LIST.md)) to be involved in human rights violations, forced labor, or severe environmental destruction.
 
 ## Key Problems Solved by the ECPL
 
 | Common Problem | How ECPL Solves It |
 |---|---|
 | **Corporate Exploitation** | Restricts usage by enterprises with over $100k gross revenue or 5+ workers across their entire parent/subsidiary group. |
-| **SaaS / API Loophole** | Implements Network Copyleft (AGPL-style), forcing hosted or containerized cloud services interacting via APIs to share modified source code. |
+| **SaaS / API Loophole** | Implements Network Copyleft (AGPL-style), forcing hosted or containerized cloud services that run the software to share their source code. |
 | **Shell Company Trickery** | Calculates revenue and employee counts cumulatively across all parent companies, affiliates, and corporate group entities. |
 | **Hardware Locking (Tivoization)** | Requires distributors of embedded hardware to provide installation keys so users can run modified builds on their physical devices. |
 | **Patent Aggression** | Automatically revokes all patent licenses if a user files a patent lawsuit against the software or its contributors. |
@@ -55,7 +55,7 @@ Add a section to your repository's main `README.md` file indicating the licensin
 ```markdown
 ## License
 
-This project is licensed under the **Ethical Copyleft Public License (ECPL v1.2)**. 
+This project is licensed under the **Ethical Copyleft Public License (ECPL v1.3)**. 
 It is free for individuals, non-profits, worker cooperatives, and small teams under $100k revenue.
 
 See the [LICENSE](LICENSE) file for complete terms and restrictions.
@@ -69,7 +69,7 @@ See the [LICENSE](LICENSE) file for complete terms and restrictions.
 
 ### What happens if a company violates the license?
 
-Under **Section 6 (Automatic Termination)**, any unauthorized usage or failure to comply immediately voids the license ipso facto. The offending entity loses all legal rights to use, host, or execute the software and becomes liable for copyright infringement.
+Under **Section 6 (Suspension, Cure & Termination)**, any unauthorized usage or failure to comply immediately suspends the license. If the violation is not fixed within 30 days of notice or knowledge, the license ends permanently. The offending entity then loses all legal rights to use, host, or execute the software and becomes liable for copyright infringement.
 
 ### Can I copy or change the license text itself?
 
@@ -78,7 +78,7 @@ If you change the terms, please give your version a different name, so nobody co
 
 ## Versions
 
-The current version is **ECPL v1.2**. Each version is published as a [release](../../releases), so you can always
+The current version is **ECPL v1.3** (SPDX identifier: `LicenseRef-ECPL-1.3`). Each version is published as a [release](../../releases), so you can always
 link to the exact text you use. What changed between versions is in the [CHANGELOG](CHANGELOG.md).
 
 ## Credits
